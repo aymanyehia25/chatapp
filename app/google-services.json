@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "806033185634",
+    "firebase_url": "https://chataaap1.firebaseio.com",
+    "project_id": "chataaap1",
+    "storage_bucket": "chataaap1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806033185634:android:57a5baf844c224f4",
+        "android_client_info": {
+          "package_name": "com.example.chataaap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806033185634-4p8kqtt8146vcnqj9547a4vjrs3iql55.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chataaap",
+            "certificate_hash": "b93b97cfd989051454a275d044b28ba0f5969479"
+          }
+        },
+        {
+          "client_id": "806033185634-e67itd15m7ervbgjkce8i32jv6b1huuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc0uITIjKJT-a8UkxgF3-G5CwEDEpqYHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806033185634-e67itd15m7ervbgjkce8i32jv6b1huuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
